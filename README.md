@@ -3,7 +3,7 @@
 
 📢 Transformando Feedback em Crescimento: Uma Análise de IA sobre Meu Desenvolvimento Profissional
 
-Recentemente, fiz um exercício diferente para entender melhor meus pontos fortes e oportunidades de evolução: compartilhei meus feedbacks de 360° com três IAs (ChatGPT, Claude.io e DeepSeek) para ter uma perspectiva externa e imparcial sobre meu perfil profissional.
+Recentemente, fiz um exercício diferente para entender melhor meus pontos fortes e oportunidades de evolução: compartilhei meus feedbacks de 360° dos últimos anos com três IAs (ChatGPT, Claude.io e DeepSeek) para ter uma perspectiva externa e imparcial sobre meu perfil profissional.
 
 O resultado foi incrivelmente revelador! As IAs destacaram:
 ✅ Liderança técnica sólida e capacidade de entregar resultados complexos.
